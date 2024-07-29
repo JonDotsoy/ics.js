@@ -1,17 +1,23 @@
-# Objetive of this document
+## Objective of this document
 
-This document share the public vision for new improvements on this project.
+This document serves as a public declaration of the improvements that will be made to our project. It outlines the key milestones, goals, and timelines for the development and delivery of these enhancements.
 
-# Roadmap
+## Roadmap
 
-## 🚧 Active
+The following roadmap provides an overview of the planned features, their expected release dates, and the current status:
 
--   [Add support to Response object](#add-support-to-response-object)
+### 🚧 Active
 
-## ⏳ Planned
+| Feature                                                           | Expected Release Date |
+| ----------------------------------------------------------------- | --------------------- |
+| [Add support to Response object](#add-support-to-response-object) | Ago, 2024             |
 
--   [Migrate scripts `.mts` to `.ts` files](#migrate-scripts-mts-to-ts-files)
--   [Upgrade build service](#add-support-to-response-object)
+### ⏳ Planned
+
+| Feature                                                                   | Status      | Expected Completion Date |
+| ------------------------------------------------------------------------- | ----------- | ------------------------ |
+| [Migrate scripts `.mts` to `.ts` files](#migrate-scripts-mts-to-ts-files) | In progress | -                        |
+| [Upgrade build service](#add-support-to-response-object)                  | In progress | -                        |
 
 ## Proposals
 
